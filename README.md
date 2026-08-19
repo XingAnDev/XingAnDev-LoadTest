@@ -1,6 +1,5 @@
 # XingAnDev-LoadTest
 XingAnDev-LoadTest — A lightweight Python HTTP load-testing tool with a Kali-style CLI interface, system information display, concurrent request testing, and HTTP status tracking.
-# XingAnDev-LoadTest
 
 **XingAnDev-LoadTest** is a Python-based command-line HTTP load-testing, request analysis, and concurrency programming tool designed for controlled, authorized testing and practical study of Python networking.
 
