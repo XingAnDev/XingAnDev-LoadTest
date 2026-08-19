@@ -1,2 +1,2 @@
 # XingAnDev-LoadTest
-A Python-based HTTP load-testing and diagnostics tool with a stylish Kali-inspired CLI.
+XingAnDev XTest — A lightweight Python HTTP load-testing tool with a Kali-style CLI interface, system information display, concurrent request testing, and HTTP status tracking.
