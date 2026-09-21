@@ -1,201 +1,248 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+XingAnDev Non-Commercial License 1.0
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+Copyright (c) 2026 XingAnDev
 
-   1. Definitions.
+---
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+## 1. Definitions
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+For the purposes of this License:
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+**"Software"** means the original software, source code, object code, documentation, configuration files, and other materials distributed by the copyright holder under this License.
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+**"Original Software"** means the version of the Software as distributed by the copyright holder.
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+**"Modified Version"** means any version of the Software or any derivative work that has been modified, adapted, translated, extended, or otherwise changed from the Original Software.
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+**"Copyright Holder"** means XingAnDev and any other copyright holder identified in the Software or accompanying copyright notices.
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+**"User"** means any individual or legal entity exercising rights granted under this License.
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+**"Commercial Use"** means any use primarily intended for commercial advantage, monetary compensation, revenue generation, paid services, commercial distribution, or other commercial benefit.
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+---
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+## 2. Grant of Permission
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
+Subject to the terms and conditions of this License, the Copyright Holder hereby grants the User a limited, non-exclusive, worldwide, royalty-free, non-transferable license to:
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+1. use the Software;
+2. copy the Software;
+3. modify and adapt the Software;
+4. create Modified Versions of the Software; and
+5. redistribute the Software or Modified Versions,
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+provided that such activities comply with all applicable provisions of this License.
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+The rights granted under this License are provided solely for non-commercial purposes.
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
+No rights are granted beyond those expressly stated in this License.
 
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+---
 
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
+## 3. Non-Commercial Restriction
 
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
+The Software is licensed for non-commercial use only.
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
+The User may not, without prior written permission from the Copyright Holder:
 
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
+1. sell the Software or any substantial portion thereof;
+2. license or sublicense the Software for a fee;
+3. commercially distribute the Software or any Modified Version;
+4. use the Software as part of a paid product, paid service, or other commercial offering;
+5. use the Software primarily for the purpose of generating revenue or obtaining commercial advantage; or
+6. otherwise use the Software for Commercial Use.
 
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
+This restriction applies to both the Original Software and Modified Versions.
 
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
+Any permission granted for Commercial Use must be obtained separately and in writing from the Copyright Holder.
 
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
+---
 
-   END OF TERMS AND CONDITIONS
+## 4. Modification and Redistribution
 
-   APPENDIX: How to apply the Apache License to your work.
+The User may modify, adapt, or create derivative versions of the Software for non-commercial purposes.
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+The User may redistribute the Original Software or Modified Versions, provided that:
 
-   Copyright [yyyy] [name of copyright owner]
+1. the redistribution complies with this License;
+2. the original copyright notice is retained;
+3. a copy of this License is included with the redistributed Software;
+4. the User does not remove or obscure existing copyright notices;
+5. Modified Versions clearly indicate that modifications have been made; and
+6. Modified Versions are not represented as the Original Software.
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+The Copyright Holder's name, project name, trademarks, logos, or other identifying information may not be used in a manner that falsely suggests that a Modified Version has been officially released, approved, maintained, or endorsed by the Copyright Holder.
 
-       http://www.apache.org/licenses/LICENSE-2.0
+---
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+## 5. Copyright and License Notice
+
+All copyright notices, attribution notices, and applicable license notices contained in the Original Software must remain intact in redistributed copies and substantial portions of the Software.
+
+Any redistribution of the Software must include a copy of this License or a clear reference to the applicable license terms.
+
+If the Software is modified, the User must make reasonable efforts to clearly identify the modifications and distinguish the Modified Version from the Original Software.
+
+Nothing in this License transfers ownership of the Software or any associated intellectual property rights to the User.
+
+All rights not expressly granted under this License are reserved by the Copyright Holder.
+
+---
+
+## 6. Patent Rights
+
+No patent license or other patent rights are granted, whether expressly, implicitly, by estoppel, or otherwise, under this License.
+
+Any patent rights that cannot legally be excluded or waived under applicable law shall remain subject to such applicable law.
+
+The User is solely responsible for determining whether their use, modification, combination, or redistribution of the Software may infringe any patent or other intellectual property rights held by third parties.
+
+---
+
+## 7. Security Statement
+
+To the best of the Copyright Holder's knowledge, the Original Software released by the Copyright Holder does not intentionally contain viruses, malware, spyware, backdoors, or other intentionally malicious code.
+
+This statement represents the Copyright Holder's knowledge and intent regarding the Original Software at the time of release.
+
+The Copyright Holder does not provide any guarantee that the Software is completely free from vulnerabilities, defects, security issues, unintended behavior, or other risks.
+
+This statement does not apply to:
+
+1. Modified Versions;
+2. unofficial forks;
+3. repackaged versions;
+4. binaries or distributions provided by third parties;
+5. third-party dependencies or components; or
+6. software or modifications introduced by any party other than the Copyright Holder.
+
+Users should independently inspect, test, and evaluate the Software before using it in any environment where security, reliability, or data integrity is important.
+
+---
+
+## 8. User Responsibility and Lawful Use
+
+The Software is provided for legitimate, authorized, and lawful purposes.
+
+The Copyright Holder does not authorize, encourage, or endorse the use of the Software for unlawful, malicious, abusive, fraudulent, destructive, or unauthorized activities.
+
+The User is solely responsible for:
+
+1. how the Software is used;
+2. any modifications made to the Software;
+3. any software or systems combined with the Software;
+4. any network, system, service, or data accessed using the Software;
+5. obtaining all permissions and authorizations required for the User's intended use; and
+6. complying with all applicable laws, regulations, contractual obligations, and third-party terms.
+
+In particular, where the Software is capable of interacting with computer systems, networks, servers, websites, APIs, or other services, the User must ensure that they have appropriate authorization to perform such activities.
+
+The Copyright Holder shall not be responsible for actions performed by the User or for consequences arising from misuse, unauthorized use, unlawful use, modification, redistribution, or other activity conducted by the User.
+
+---
+
+## 9. Third-Party Components
+
+The Software may depend upon, include, interact with, or distribute third-party software, libraries, services, or other components.
+
+Such third-party components may be subject to separate licenses and terms.
+
+Nothing in this License is intended to override or replace the license terms applicable to third-party components.
+
+The User is responsible for reviewing and complying with the applicable terms of any third-party components used together with the Software.
+
+---
+
+## 10. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, AVAILABILITY, SECURITY, OR FREEDOM FROM ERRORS OR DEFECTS.
+
+THE COPYRIGHT HOLDER DOES NOT WARRANT THAT:
+
+1. THE SOFTWARE WILL OPERATE WITHOUT INTERRUPTION;
+2. THE SOFTWARE WILL BE ERROR-FREE;
+3. DEFECTS WILL BE CORRECTED;
+4. THE SOFTWARE WILL BE SECURE OR FREE FROM VULNERABILITIES;
+5. THE SOFTWARE WILL MEET THE USER'S REQUIREMENTS;
+6. THE SOFTWARE WILL BE COMPATIBLE WITH ALL SYSTEMS OR ENVIRONMENTS; OR
+7. THE SOFTWARE WILL PRODUCE ANY PARTICULAR RESULT.
+
+THE USER ASSUMES ALL RISKS ASSOCIATED WITH THE USE, MODIFICATION, AND REDISTRIBUTION OF THE SOFTWARE.
+
+---
+
+## 11. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR OTHER DAMAGES ARISING OUT OF OR RELATING TO:
+
+1. THE USE OR INABILITY TO USE THE SOFTWARE;
+2. MODIFICATION OF THE SOFTWARE;
+3. REDISTRIBUTION OF THE SOFTWARE;
+4. LOSS OF DATA;
+5. LOSS OF PROFITS OR REVENUE;
+6. BUSINESS INTERRUPTION;
+7. SECURITY INCIDENTS;
+8. NETWORK OR SYSTEM DAMAGE;
+9. ACTIONS TAKEN BY USERS OR THIRD PARTIES; OR
+10. ANY OTHER USE OR MISUSE OF THE SOFTWARE.
+
+THIS LIMITATION APPLIES REGARDLESS OF THE LEGAL THEORY ON WHICH LIABILITY IS ASSERTED, INCLUDING CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE, EXCEPT TO THE EXTENT THAT SUCH LIABILITY CANNOT LAWFULLY BE LIMITED OR EXCLUDED.
+
+---
+
+## 12. No Endorsement
+
+The names "XingAnDev", the Copyright Holder, and the original project name may not be used to endorse, promote, advertise, or imply official approval of any Modified Version or redistributed version without prior written permission from the Copyright Holder.
+
+Modification or redistribution of the Software does not create any partnership, agency, employment, sponsorship, or other relationship between the User and the Copyright Holder.
+
+---
+
+## 13. Termination
+
+The rights granted under this License automatically terminate if the User materially violates any term or condition of this License.
+
+Upon termination, the User must immediately cease all activities that are no longer authorized under this License, including use and redistribution of the Software, except to the extent that continued rights are required or permitted by applicable law.
+
+Termination does not affect any rights or obligations that accrued before termination.
+
+Sections concerning copyright, intellectual property, user responsibility, disclaimer of warranty, limitation of liability, and other provisions that by their nature should survive termination shall remain in effect to the extent permitted by applicable law.
+
+---
+
+## 14. Reservation of Rights
+
+Except for the limited rights expressly granted under this License, the Copyright Holder retains all rights, title, and interest in and to the Software, including all applicable copyrights, trademarks, and other intellectual property rights.
+
+No implied license or other right shall arise from the distribution or use of the Software.
+
+---
+
+## 15. Severability
+
+If any provision of this License is determined to be invalid, unlawful, or unenforceable by a court or other competent authority, that provision shall be enforced to the maximum extent permitted by applicable law, and the remaining provisions shall remain in full force and effect.
+
+---
+
+## 16. Entire Agreement
+
+This License constitutes the complete agreement concerning the rights granted to the User with respect to the Software, unless a separate written agreement signed by the Copyright Holder expressly states otherwise.
+
+Any additional permission, including permission for Commercial Use, must be expressly granted in writing by the Copyright Holder.
+
+---
+
+## 17. Acceptance
+
+By using, copying, modifying, or redistributing the Software, the User acknowledges that they have read, understood, and agreed to be bound by the terms and conditions of this License.
+
+If the User does not agree to these terms, the User must not use, copy, modify, or redistribute the Software except where such activity is independently permitted by applicable law.
+
+---
+
+Copyright (c) 2026 XingAnDev
+
+XingAnDev Custom Non-Commercial License 1.0
